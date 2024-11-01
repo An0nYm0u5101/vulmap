@@ -1,2 +1,2 @@
-gevent>=20.9
+gevent>=24.10.1
 pycryptodome
